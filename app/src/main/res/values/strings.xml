@@ -18,4 +18,14 @@
     <string name="sistemas_distribuidos">Sistemas distribuidos</string>
     <string name="transmisi_n_de_datos">Transmisión de datos</string>
     <string name="pedro_lop_z">Pedro Lopéz</string>
+    <string name="jorge_espindola">Jorge Espindola</string>
+    <string name="electiva_iii">Electiva III</string>
+    <string name="fecha_02_03_2021_10_00">Fecha: 11/03/2021 10:00</string>
+    <string name="entregable_workshop">Entregable-WORKSHOP</string>
+    <string name="curso_ingenier_a_de_aoftware_ii">Curso: Ingeniería de software II</string>
+    <string name="todo">TODO</string>
+    <string name="taller_n1_entrega_sp2020">Taller N1 Entrega SP2020</string>
+    <string name="fecha_02_032021_10_00">Fecha: 02/032021 10:00</string>
+    <string name="taller_n_2_sp2020">Taller N°2 - SP2020</string>
+    <string name="fecha_29_04_2021_10_00">Fecha: 29/04/2021 10:00</string>
 </resources>
