@@ -10,4 +10,12 @@
     <string name="menu_home">Cursos</string>
     <string name="menu_gallery">Tareas</string>
     <string name="menu_slideshow">Notificaciones</string>
+    <string name="ingenier_a_de_software">Ingeniería de software</string>
+    <string name="curso">Curso</string>
+    <string name="profesor">Profesor</string>
+    <string name="edmundo_junco">Edmundo Junco</string>
+    <string name="camilo_bohorq_z">Camilo Bohorqéz</string>
+    <string name="sistemas_distribuidos">Sistemas distribuidos</string>
+    <string name="transmisi_n_de_datos">Transmisión de datos</string>
+    <string name="pedro_lop_z">Pedro Lopéz</string>
 </resources>
