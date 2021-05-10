@@ -17,8 +17,7 @@ class SlideshowFragment : Fragment() {
             container: ViewGroup?,
             savedInstanceState: Bundle?
     ): View? {
-        slideshowViewModel =
-                ViewModelProvider(this).get(SlideshowViewModel::class.java)
+        slideshowViewModel = ViewModelProvider(this).get(SlideshowViewModel::class.java)
         val root = inflater.inflate(R.layout.notificaciones, container, false)
         return root
     }

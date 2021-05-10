@@ -28,4 +28,15 @@
     <string name="fecha_02_032021_10_00">Fecha: 02/032021 10:00</string>
     <string name="taller_n_2_sp2020">Taller N°2 - SP2020</string>
     <string name="fecha_29_04_2021_10_00">Fecha: 29/04/2021 10:00</string>
+    <string name="notificar">Notificar</string>
+    <string name="no">No</string>
+    <string name="si">Si</string>
+    <string name="antes_de">Antes de:</string>
+    <string name="antes_de_la_fecha_de_vencimiento">De la fecha de vencimiento</string>
+    <string name="guardar">Guardar</string>
+    <string-array name="lenguajes">
+        <item>Días</item>
+        <item>Horas</item>
+        <item>Minutos</item>
+    </string-array>
 </resources>
