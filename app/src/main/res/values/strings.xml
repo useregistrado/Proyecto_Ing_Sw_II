@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Task App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Oscar Sebastian Vargas</string>
+    <string name="nav_header_subtitle">oscar.vargas07@uptc.edu.co</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Cursos</string>
+    <string name="menu_gallery">Tareas</string>
+    <string name="menu_slideshow">Notificaciones</string>
+    <string name="ingenier_a_de_software">Ingeniería de software</string>
+    <string name="curso">Curso</string>
+    <string name="profesor">Profesor</string>
+    <string name="edmundo_junco">Edmundo Junco</string>
+    <string name="camilo_bohorq_z">Camilo Bohorqéz</string>
+    <string name="sistemas_distribuidos">Sistemas distribuidos</string>
+    <string name="transmisi_n_de_datos">Transmisión de datos</string>
+    <string name="pedro_lop_z">Pedro Lopéz</string>
+    <string name="jorge_espindola">Jorge Espindola</string>
+    <string name="electiva_iii">Electiva III</string>
+    <string name="fecha_02_03_2021_10_00">Fecha: 11/03/2021 10:00</string>
+    <string name="entregable_workshop">Entregable-WORKSHOP</string>
+    <string name="curso_ingenier_a_de_aoftware_ii">Curso: Ingeniería de software II</string>
+    <string name="todo">TODO</string>
+    <string name="taller_n1_entrega_sp2020">Taller N1 Entrega SP2020</string>
+    <string name="fecha_02_032021_10_00">Fecha: 02/032021 10:00</string>
+    <string name="taller_n_2_sp2020">Taller N°2 - SP2020</string>
+    <string name="fecha_29_04_2021_10_00">Fecha: 29/04/2021 10:00</string>
+    <string name="notificar">Notificar</string>
+    <string name="no">No</string>
+    <string name="si">Si</string>
+    <string name="antes_de">Antes de:</string>
+    <string name="antes_de_la_fecha_de_vencimiento">De la fecha de vencimiento</string>
+    <string name="guardar">Guardar</string>
+    <string-array name="lenguajes">
+        <item>Días</item>
+        <item>Horas</item>
+        <item>Minutos</item>
+    </string-array>
+</resources>
